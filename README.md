@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sam
-- 👀 I’m interested in Web Programming in ASP.Net Core
-- 🌱 I’m currently learning Angular 13 and integration with Core
-- 💞️ I’m looking to collaborate on building uniqe custom websites in ASP.Net Core/Angular or even WordPress.
+- 👀 I’ve been programming with ASP.Net and ASP.Net Core for 20 years.
+I am a full-stack developer with ASP.Net Core and Angular.
+- 💞️ I am aso currently writing a book on beginning web development.
+Check it out here: https://webdevschool.iimagine-websolutions.com/books/beginning-web-development
 - 📫 You can reach me on my business site at iImagine-WebSolutions on the contact us page:
 - https://iimagine-websolutions.com/
 
